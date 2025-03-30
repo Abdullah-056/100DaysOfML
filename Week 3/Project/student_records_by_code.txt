@@ -1,0 +1,25 @@
+Student 1:
+John Smith is 20 years old and had taken ['Math', 'Physics', 'Chemistry'] courses
+GPA: 3.67
+Grades: ['A', 'B+', 'A-']
+--------------------------------------------------
+Student 2:
+Emma Wilson is 19 years old and had taken ['Biology', 'English'] courses
+GPA: 3.15
+Grades: ['B', 'A']
+--------------------------------------------------
+Student 3:
+Michael Chen is 21 years old and had taken ['Computer Science', 'Statistics'] courses
+GPA: 3.65
+Grades: ['A+', 'B+']
+--------------------------------------------------
+Student 4:
+Sarah Davis is 20 years old and had taken ['History', 'Psychology', 'Sociology'] courses
+GPA: 2.67
+Grades: ['B-', 'C+', 'B']
+--------------------------------------------------
+Student 5:
+Robert Johnson is 22 years old and had taken ['Engineering', 'Math'] courses
+GPA: 3.85
+Grades: ['A', 'A-']
+--------------------------------------------------
